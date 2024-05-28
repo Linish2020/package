@@ -1,0 +1,22 @@
+{
+  "name": "linish2020-package",
+  "version": "1.0.0",
+  "description": "this is used for testing purpose only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linish2020/package.git"
+  },
+  "keywords": [
+    "linish-test"
+  ],
+  "author": "Linish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linish2020/package/issues"
+  },
+  "homepage": "https://github.com/linish2020/package#readme"
+}
